@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.js": "https://fes-too.github.io/csb-lguxk1/static/js/main.7390b204.chunk.js",
+    "main.js.map": "https://fes-too.github.io/csb-lguxk1/static/js/main.7390b204.chunk.js.map",
+    "runtime-main.js": "https://fes-too.github.io/csb-lguxk1/static/js/runtime-main.b2fd3a91.js",
+    "runtime-main.js.map": "https://fes-too.github.io/csb-lguxk1/static/js/runtime-main.b2fd3a91.js.map",
+    "static/js/2.fc726699.chunk.js": "https://fes-too.github.io/csb-lguxk1/static/js/2.fc726699.chunk.js",
+    "static/js/2.fc726699.chunk.js.map": "https://fes-too.github.io/csb-lguxk1/static/js/2.fc726699.chunk.js.map",
+    "index.html": "https://fes-too.github.io/csb-lguxk1/index.html",
+    "precache-manifest.2174d2dd05fac339ca0fb30accb1442e.js": "https://fes-too.github.io/csb-lguxk1/precache-manifest.2174d2dd05fac339ca0fb30accb1442e.js",
+    "service-worker.js": "https://fes-too.github.io/csb-lguxk1/service-worker.js"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.b2fd3a91.js",
+    "static/js/2.fc726699.chunk.js",
+    "static/js/main.7390b204.chunk.js"
+  ]
+}
